@@ -22,10 +22,15 @@ var x = 10;
 
 ```jsx
 let x = 20; //variable that can be reassigned later.
+// let x= 20;
+// x=10; -> valid
 ```
 
 ```jsx
 const z =30; //variable that cannot be reassigned later.
+// const z= 30;
+// z = 15; -> not valid, throws error
+
 ```
 
 ![Untitled](JavaScript%20Basics%207d6a62d4699f41bc96b4238ad3dc41d9/Untitled.png)
