@@ -18,3 +18,10 @@ Here I'm updating all my learning with respect to JavaScript
 4. `Template Literals`
 5. `Spread operator`
 6. `Rest operator`
+
+# Functions
+
+1. `Functions` → Function Declaration and Function Expression
+2. `Callback functions`
+3. `Higher Order Function`
+4. `closures`
