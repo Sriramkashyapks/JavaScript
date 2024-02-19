@@ -27,7 +27,7 @@ console.log(hello());
 
 //arrow function
 
-const namaste = () => "Namaste ";
+const namaste = () => "Namaste JS";
 
 console.log(namaste) //[Function: namaste] -> wrong
-console.log(namaste()) // Namaste 
+console.log(namaste()) // Namaste JS
