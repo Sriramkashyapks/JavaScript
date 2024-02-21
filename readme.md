@@ -25,3 +25,9 @@ Here I'm updating all my learning with respect to JavaScript
 2. `Callback functions`
 3. `Higher Order Function`
 4. `closures`
+
+# Objects
+
+1. `Object Literals`
+2. `Object Methods`
+3. `Property shorthand` 
