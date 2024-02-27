@@ -2,6 +2,7 @@
 
 - Functions are reusable block of code that performs some specific tasks.
 - can define them either by function declaration or by function expression.
+- take argument as an input and return a value as an output
 
 ## 1. Function Declaration
 
