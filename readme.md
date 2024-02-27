@@ -37,3 +37,9 @@ Here I'm updating all my learning with respect to JavaScript
 1. `Array`
 2. `Exaples of Array`
 3. `Array Methods`
+
+# Scope and Closure
+
+1. `Scope`
+2. `Closure`
+3. `Callback Closure`
