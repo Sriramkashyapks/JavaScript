@@ -31,3 +31,9 @@ Here I'm updating all my learning with respect to JavaScript
 1. `Object Literals`
 2. `Object Methods`
 3. `Property shorthand` 
+
+# Array
+
+1. `Array`
+2. `Exaples of Array`
+3. `Array Methods`
