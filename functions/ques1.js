@@ -34,6 +34,6 @@ function fn(data){
     console.log("result : " + data);
 }
 
-console.log(add(10, 20 ,fn)); // 30 undefined --> bcs it dosent return anything
+console.log(add(10, 20 ,fnPassive)); // 30 undefined --> bcs it dosent return anything
 
 let sum = add (20 ,30, fn); // result : 50
