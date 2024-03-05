@@ -1,5 +1,5 @@
     function outer(){
-        let username = "Sriram"
+        let username = "Sriram" // global scope of outer function
         // console.log("OUTER", secret); // ReferenceError: secret is not defined
         function inner(){ // closure function -> inner can access the variables of outer function
             let secret = "my123"   
