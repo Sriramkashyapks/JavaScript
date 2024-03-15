@@ -1,1 +1,8 @@
 Hey there I'm Sriram.
+
+what is async? - Asynchronous
+1. JS Code dosent have access to everything immediately
+2. There are some tasks it need to "wait" for like
+    a. Reading a file
+    b. sending a network request
+    c. A deliberate timeout

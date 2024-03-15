@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DOM Example</title>
+    <style>
+        .highlight {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<h1>DOM Example</h1>
+<p id="demo">This is a paragraph.</p>
+
+<button onclick="changeText()">Click me</button> // onclick is an event attribute
+<button onclick="highlightText()">Highlight</button>
+ 
+<script>
+    function changeText() {
+        // Accessing the paragraph element by its ID
+        let paragraph = document.getElementById("demo");
+        
+        // Changing the text content
+        paragraph.textContent = "Text changed dynamically!";
+    }
+
+    function highlightText() {
+        // Accessing the paragraph element by its ID
+        let paragraph = document.getElementById("demo");
+        
+        // Adding a CSS class to highlight the text
+        paragraph.classList.add("highlight");
+    }
+</script>
+
+</body>
+
+</html>
+<!-- // DOM is a tree structure of HTML elements
+// The root of the tree is the document object
+// The document object is the owner of all other objects in your web page
+
+The DOM represents the document as a tree structure, where each node represents a part of the document, such as elements, attributes, and text.
+
+// With the DOM, developers can:
+
+// Access any element in the document and modify its content, attributes, and styles.
+// Add or remove elements and attributes dynamically.
+// Respond to user events such as clicks and keystrokes.
+// Update the document based on user interactions or data from external sources. -->
+

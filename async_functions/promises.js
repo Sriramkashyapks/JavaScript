@@ -125,7 +125,4 @@ eatNoodles()
     .then(value => {
         console.log(value);
         console.log("All the tasks are accomplished!!");
-    })
-    .catch(error => {
-        console.error("Error occurred:", error);
     });
